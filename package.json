@@ -1,0 +1,23 @@
+{
+  "name": "@arthur-pedro/b3-scraping",
+  "version": "1.0.0",
+  "description": "b3 scraping",
+  "main": "index.js",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthur-pedro/b3-scraping.git"
+  },
+  "keywords": [
+    "npm",
+    "b3",
+    "bovespa",
+    "scraping"
+  ],
+  "author": "Arthur P L S Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthur-pedro/b3-scraping/issues"
+  },
+  "homepage": "https://github.com/arthur-pedro/b3-scraping#readme"
+}
