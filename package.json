@@ -1,6 +1,6 @@
 {
   "name": "@arthur-pedro/b3-scraping",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "b3 scraping",
   "main": "index.js",
   "publishConfig": { "registry": "https://npm.pkg.github.com/" },
@@ -14,6 +14,9 @@
     "bovespa",
     "scraping"
   ],
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  },
   "author": "Arthur P L S Santos",
   "license": "ISC",
   "bugs": {
