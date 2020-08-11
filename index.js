@@ -1,4 +1,4 @@
-module.exports.listAllticker = () => {
+module.exports.listAllticker = async () => {
     try {
         const puppeteer = require('puppeteer');
         const browser = await puppeteer.launch();
